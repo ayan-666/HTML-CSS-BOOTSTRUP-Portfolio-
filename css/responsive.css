@@ -2,6 +2,10 @@
     /* Banner Part (2nd Part) Media Query Start */
     .banner{
         height: 700px;
+        padding-top: 20px;
+    }
+    .banner img{
+        padding-top: 40px;
     }
     /* Banner Part (2nd Part) Media Query End */
 
@@ -24,6 +28,10 @@
     /* Banner Part (2nd Part) Media Query Start */
     .banner{
         height: 700px;
+        padding-top: 20px;
+    }
+    .banner img{
+        padding-top: 40px;
     }
     /* Banner Part (2nd Part) Media Query End */
 
